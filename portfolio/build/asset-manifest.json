@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d63b0cb.css",
+    "main.js": "/static/js/main.3be3e361.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/editedMyphoo.jpg": "/static/media/editedMyphoo.ca9c45e1118fe38b8fb7.jpg",
+    "static/media/skil.jpg": "/static/media/skil.866d4795554e9b80c86b.jpg",
+    "static/media/nasa.jpg": "/static/media/nasa.de5659898d3bfc5eb8ea.jpg",
+    "index.html": "/index.html",
+    "main.2d63b0cb.css.map": "/static/css/main.2d63b0cb.css.map",
+    "main.3be3e361.js.map": "/static/js/main.3be3e361.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d63b0cb.css",
+    "static/js/main.3be3e361.js"
+  ]
+}
